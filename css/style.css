@@ -46,7 +46,7 @@ body{
 .container main .mailbox ul li p{
     display: inline-block;
 }
-.container main .mailbox ul li p span{
+.container main .mailbox ul li p span.grey{
     color: rgb(165, 154, 154);
 }
 footer{
